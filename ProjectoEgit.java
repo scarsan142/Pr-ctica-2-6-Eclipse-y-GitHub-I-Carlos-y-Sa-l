@@ -1,18 +1,14 @@
 import java.util.Scanner;
 
 public class ProjectoEgit {
-	public static int producto(int a, int b) {
+	public static int suma(int a, int b) {
 		int c;
-		c = a * b;
+		c = a + b;
 		return c;
 		}
 		
-	public static int dividir(int a, int b) {
-		int c;
-		c = a / b;
-		return c;
-		}
-
+	
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
